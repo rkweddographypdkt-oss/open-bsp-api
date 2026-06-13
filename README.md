@@ -3,7 +3,7 @@
   <strong>Open-source WhatsApp Business Platform</strong>
 </p>
 <p align="center">
-  Self-hostable, multi-tenant, AI-agent ready. Built with Deno 🦕 and Postgres 🐘, powered by Supabase ⚡
+  Self-hostable, multi-tenant, AI-agent ready. Built with Deno 🦕yeeeah and Postgres 🐘, powered by Supabase ⚡
 </p>
 
 <p align="center">
