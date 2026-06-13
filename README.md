@@ -25,7 +25,7 @@ and offer WhatsApp messaging services to other organizations.
 For a complete web-based interface to manage conversations check out the
 companion project:
 
-**🖥️ [OpenBSP UI](https://github.com/matiasbattocchia/open-bsp-ui)** — A modern,
+**🖥️ [OpenBSP UI ](https://github.com/matiasbattocchia/open-bsp-ui)** — A modern,
 responsive web interface built with React and Tailwind.
 
 https://github.com/user-attachments/assets/1ef30dde-9de1-4f5a-856a-db34ca2e3063
